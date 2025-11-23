@@ -1,0 +1,71 @@
+# Laravel & PHP specific
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Composer
+composer.phar
+composer.lock
+
+# PHP
+*.cache
+*.tmp
+
+# Laravel specific
+bootstrap/cache/
+storage/app/*
+!storage/app/.gitkeep
+!storage/app/public/
+storage/framework/cache/*
+!storage/framework/cache/.gitkeep
+storage/framework/sessions/*
+!storage/framework/sessions/.gitkeep
+storage/framework/testing/*
+!storage/framework/testing/.gitkeep
+storage/framework/views/*
+!storage/framework/views/.gitkeep
+storage/logs/*
+!storage/logs/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.sqlite
+*.sqlite3
+
+# PHPUnit
+.phpunit.result.cache
+/coverage
+
+# Backup files
+*.backup
+*.bak
+*.swp
+*.swo
+*~
