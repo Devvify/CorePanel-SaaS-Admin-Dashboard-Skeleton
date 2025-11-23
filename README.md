@@ -1,2 +1,2 @@
 # CorePanel
-CorePanel — SaaS Admin Starter (Next.js + MUI + Prisma + JWT)
+CorePanel – SaaS Admin Dashboard Skeleton
