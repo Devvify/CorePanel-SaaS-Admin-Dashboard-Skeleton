@@ -56,17 +56,6 @@ corepanel/
    └─ database/migrations
 ```
 
----
-
-## Screenshots / Demo
-
-> Replace with actual screenshots or GIFs after implementing CRUD tables, charts, or dashboards.
-
-![Login Page](https://via.placeholder.com/600x300?text=Login+Page)
-![Dashboard](https://via.placeholder.com/600x300?text=Dashboard+Placeholder)
-
----
-
 ## Tech Stack
 
 - **Frontend:** Next.js, React, TypeScript, MUI, Axios  
